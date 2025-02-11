@@ -1,6 +1,6 @@
 # 🏥 Disease Outbreak Prediction Web App
 
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+[![MasterHead](./github-header-image.png)]
 
 ## 📌 Project Overview
 This is a Machine Learning-powered Web App built with Python, Scikit-Learn, and Streamlit that predicts the likelihood of Diabetes, Heart Disease, and Parkinson’s Disease based on user inputs. The trained models analyze medical parameters to provide an instant health risk assessment.
