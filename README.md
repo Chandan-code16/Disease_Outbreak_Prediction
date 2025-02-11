@@ -1,6 +1,6 @@
 # 🏥 Disease Outbreak Prediction Web App
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Disease+Outbreak+Prediction+App)
+![Project Banner]([https://via.placeholder.com/1000x300?text=Disease+Outbreak+Prediction+App](https://files.oaiusercontent.com/file-4gZZaXvHnyZ12XrxxRk3xj?se=2025-02-11T11%3A01%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D41b1aae9-7e7e-4cfd-8f13-2dada3373447.webp&sig=fDbZOcvgWN3RZA3ZK9TkriuIYUjnmK%2BVGUeKVJJWA7I%3D))
 
 ## 📌 Project Overview
 This is a Machine Learning-powered Web App built with Python, Scikit-Learn, and Streamlit that predicts the likelihood of Diabetes, Heart Disease, and Parkinson’s Disease based on user inputs. The trained models analyze medical parameters to provide an instant health risk assessment.
