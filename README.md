@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This is a Machine Learning-powered Web App built with Python, Scikit-Learn, and Streamlit that predicts the likelihood of Diabetes, Heart Disease, and Parkinson’s Disease based on user inputs. The trained models analyze medical parameters to provide an instant health risk assessment.
 
-🔗 Live Demo: [Click Here](https://your-app-name.streamlit.app)
+🔗 Live Demo: [Click Here](https://disease-outbreak-prediction-1.onrender.com)
 
 ## ✨ Features
 ✅ Predict Disease Risks (Diabetes, Heart Disease, Parkinson’s)  
