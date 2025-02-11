@@ -41,7 +41,7 @@ cd Disease_Outbreak_Prediction
 ### 2️⃣ Create & Activate Virtual Environment
 python -m venv venv
 # Activate on Windows
-venv\Scripts\activate
+venv/Scripts/activate
 # Activate on Mac/Linux
 source venv/bin/activate
 
